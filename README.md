@@ -34,8 +34,15 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 
 <h3>Current activities</h3>
 <ul>
-<li>Full Stack Developer & Project Manager at <a src="https://github.com/PowerXTeam">PowerX</a></li>
-<li>Senior Member & Frontend Developer at <a src="https://www.facebook.com/skninformatyki"> SGH Student's Association for Computer Science (SKNI)</a></li>
+<li>Full Stack Developer & Project Manager at <a href="https://github.com/PowerXTeam">PowerX</a></li>
+<li>Senior Member & Frontend Developer at <a href="https://www.facebook.com/skninformatyki"> SGH Student's Association for Computer Science (SKNI)</a></li>
+</ul>
+
+<h3>Current Projects</h3>
+<ul> 
+    <li>Social blockchain-based network for people who leading healthy lifestyle (TS,React,Redux,Node.js,MongoDB,Mintr) 
+<a href="https://github.com/PowerXTeam/main_repo">Repository</a><li>
+    <li><a href="https://github.com/hator/skni-project?fbclid=IwAR2yY65_CebI8tEDRQ8-2G8dhc9AiBFKPTPDq1vF5AODqfDVU7vA7sQ8uyE">Stock screener (TS,React,Django,SQLlite)<a></li>
 </ul>
 
 
