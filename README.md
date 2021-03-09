@@ -24,7 +24,9 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 <img height="100px" width="100px" src="assets/html-5-icon.svg" alt="html5-icon">
 <img height="100px" width="100px" src="assets/css-3-icon.svg" alt="css-icon">
 <img height="100px" width="100px" src="assets/sass-icon.svg" alt="sass-icon">
-<br>
+</p>
+
+<p align="center">
 <img height="100px" width="100px" src="assets/java-icon.svg" alt="java-icon">
 <img height="100px" width="100px" src="assets/jenkins-icon.svg" alt="jenkins-icon">
 <img height="100px" width="100px" src="assets/postgresql-icon.svg" alt="postgresql-icon">
