@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/andrzej-ciszewski-b5a9581b7/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andrew Tsishevskii LinkedIn Profile" height="30" width="30">
+    <img src="assets/linkedin-icon.svg" alt="Andrew Tsishevskii LinkedIn Profile" height="50px" width="50px">
   </a>
 </p>
 <em>
@@ -15,7 +15,9 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 
 <img src="assets/star.webp" width="30px">&nbsp;***Current tech stack...***
 <p style='text-align: center'>
-<span style="padding:20px"><img height="100px" width="100px" src="assets/ts-icon.svg" alt="typescript-icon"></span>
+<img height="100px" width="100px" src="assets/ts-icon.svg" alt="typescript-icon">
 <img height="100px" width="100px" src="assets/react-icon.svg" alt="react-icon">
+<img height="100px" width="100px" src="assets/redux-icon.svg" alt="redux-icon">
+<img height="100px" width="100px" src="assets/jest-icon.svg" alt="jest-icon">
 </p>
 
