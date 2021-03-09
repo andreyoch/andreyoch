@@ -9,7 +9,7 @@
 <em>
 <p align="center">
 I'm study  Quantitative Methods and Information Systems at Warsaw School of Economics
-. A budding <b> Full Stack Software</b> and <b>Web Dev Enthusiast</b>
+. A budding <b> Full Stack Developer</b> and <b>Web Dev Enthusiast</b>
 Developer who is obsessed idea of improving himself </p> </em>
 
 
