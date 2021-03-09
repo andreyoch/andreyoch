@@ -15,7 +15,7 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 
 <img src="assets/star.webp" width="30px">&nbsp;***Current tech stack...***
 <p style='text-align: center'>
-<img height="100px" width="100px" src="assets/ts-icon.svg" alt="typescript-icon">
+<span style="padding:20px"><img height="100px" width="100px" src="assets/ts-icon.svg" alt="typescript-icon"></span>
 <img height="100px" width="100px" src="assets/react-icon.svg" alt="react-icon">
 </p>
 
