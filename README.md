@@ -10,7 +10,7 @@
 <p align="center">
 I'm study  Quantitative Methods and Information Systems at Warsaw School of Economics
 . A budding <b> Full Stack Software</b> and <b>Web Dev Enthusiast</b>
-<br>Developer who is obsessed idea of improving himself </p> </em>
+Developer who is obsessed idea of improving himself </p> </em>
 
 
 <img src="assets/star.webp" width="30px">&nbsp;***Current tech stack...***
