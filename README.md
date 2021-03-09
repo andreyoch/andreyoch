@@ -19,5 +19,17 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 <img height="100px" width="100px" src="assets/react-icon.svg" alt="react-icon">
 <img height="100px" width="100px" src="assets/redux-icon.svg" alt="redux-icon">
 <img height="100px" width="100px" src="assets/jest-icon.svg" alt="jest-icon">
+<img height="100px" width="100px" src="assets/javascript-icon.svg" alt="java-script-icon">
+<img height="100px" width="100px" src="assets/nodejs-icon.svg" alt="nodejs-icon">
+<img height="100px" width="100px" src="assets/html-5-icon.svg" alt="html5-icon">
+<img height="100px" width="100px" src="assets/css-3-icon.svg" alt="css-icon">
+<img height="100px" width="100px" src="assets/sass-icon.svg" alt="sass-icon">
+<img height="100px" width="100px" src="assets/java-icon.svg" alt="java-icon">
+<img height="100px" width="100px" src="assets/jenkins-icon.svg" alt="jenkins-icon">
+<img height="100px" width="100px" src="assets/postgresql-icon.svg" alt="postgresql-icon">
+<img height="100px" width="100px" src="assets/mongodb-icon.svg" alt="mongodb-icon">
+
+
+
 </p>
 
