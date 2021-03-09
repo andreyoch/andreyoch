@@ -40,7 +40,7 @@ I'm study  Quantitative Methods and Information Systems at Warsaw School of Econ
 
 <h3>Current Projects</h3>
 <ul> 
-    <li>Social blockchain-based network for people who leading healthy lifestyle (TS,React,Redux,Node.js,MongoDB,Mintr) <a href="https://github.com/PowerXTeam/main_repo">Repository</a><li>
+    <li><a href="https://github.com/PowerXTeam/main_repo">Social blockchain-based network for people who leading healthy lifestyle (TS,React,Redux,Node.js,MongoDB,Mintr) </a><li>
     <li><a href="https://github.com/hator/skni-project?fbclid=IwAR2yY65_CebI8tEDRQ8-2G8dhc9AiBFKPTPDq1vF5AODqfDVU7vA7sQ8uyE">Stock screener (TS,React,Django,SQLlite)<a></li>
 </ul>
 
