@@ -42,6 +42,16 @@ Developer who is obsessed idea of improving himself </p> </em>
 <ul> 
     <li><a href="https://github.com/PowerXTeam/main_repo">Social blockchain-based network for people who leading healthy lifestyle (TS,React,Redux,Node.js,MongoDB,Mintr) </a>
     <li><a href="https://github.com/hator/skni-project?fbclid=IwAR2yY65_CebI8tEDRQ8-2G8dhc9AiBFKPTPDq1vF5AODqfDVU7vA7sQ8uyE">Stock screener (TS,React,Django,SQLlite)<a></li>
+    <li><a href="https://github.com/andreyoch/react-1">Social Network(React,Redux,Axios)</a></li>
+</ul>
+
+<h3>Completed Projects</h3>
+<ul>
+<li><a href="https://github.com/andreyoch/todo_list">Todo List</a></li>
+<li><a href="https://github.com/andreyoch/etch_a_sketch">Etch a sketch</a></li>
+<li><a href="https://github.com/andreyoch/tic-tac-toe">Tic Tac Toe</a></li>
+<li><a href="https://github.com/andreyoch/library_app">Library App</a></li>
+
 </ul>
 
 
