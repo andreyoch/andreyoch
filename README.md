@@ -1,5 +1,5 @@
-<h3 align="center"> Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there! I'm Andrew Tsishevskii</h3>
-<h3 align="center">Software Engineer | Web Dev Enthusiast</h3>
+<h3 align="center"> Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h3>
+<h3 align="center">Andrzej Ciszewski | Node.js developer</h3>
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/andrzej-ciszewski-b5a9581b7/">
@@ -8,50 +8,26 @@
 </p>
 <em>
 <p align="center">
-I'm study  Quantitative Methods and Information Systems at Warsaw School of Economics
-. A budding <b> Full Stack Developer</b> and <b>Web Dev Enthusiast</b>
-Developer who is obsessed idea of improving himself </p> </em>
+Hello! I'm Andrzej Ciszewski, a passionate Node.js developer with experience in building scalable and high-performance web applications. My journey in the tech world has been driven by my curiosity about how things work and my enthusiasm for solving problems through code. </p>
 
+<h3 align="center">
+Certificates
+</h3>
+<div align="center">
+<a href="https://www.credly.com/badges/c345efbb-3b11-46e2-b80a-14d8140e9f79/linked_in_profile">
+<img height="300px" width="300px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="solution architect associate badge"></a>
 
-<img src="assets/star.webp" width="30px">&nbsp;***Current tech stack...***
-<p style='text-align: center'>
-<img height="100px" width="100px" src="assets/ts-icon.svg" alt="typescript-icon">
-<img height="100px" width="100px" src="assets/react-icon.svg" alt="react-icon">
-<img height="100px" width="100px" src="assets/redux-icon.svg" alt="redux-icon">
-<img height="100px" width="100px" src="assets/jest-icon.svg" alt="jest-icon">
-<img height="100px" width="100px" src="assets/javascript-icon.svg" alt="java-script-icon">
-<img height="100px" width="100px" src="assets/nodejs-icon.svg" alt="nodejs-icon">
-<img height="100px" width="100px" src="assets/html-5-icon.svg" alt="html5-icon">
-<img height="100px" width="100px" src="assets/css-3-icon.svg" alt="css-icon">
-</p>
+<a href="https://www.credly.com/badges/0526a882-a2b4-4636-a8fd-6b05c046df6b?source=linked_in_profile">
+<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="developer associate badge"></a>
+
+<a href="https://www.credly.com/badges/6b5437da-6464-47ec-a07f-b32212252411/linked_in_profile">
+<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="cloud practitioner badge"></a>
+
+<a href="https://www.credly.com/badges/b4c70703-4e85-4674-9977-5a3c2c3312a8/linked_in_profile">
+<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="terraform associate badge"></a>
+
+</div>
+
 <p align="center">
-<img height="100px" width="100px" src="assets/java-icon.svg" alt="java-icon">
-<img height="100px" width="100px" src="assets/jenkins-icon.svg" alt="jenkins-icon">
-<img height="100px" width="100px" src="assets/postgresql-icon.svg" alt="postgresql-icon">
-<img height="100px" width="100px" src="assets/mongodb-icon.svg" alt="mongodb-icon">
-<img height="100px" width="100px" src="assets/sass-icon.svg" alt="sass-icon">
+I'm always open to collaborate on projects that challenge me and push the boundaries of what I know. If you're interested in working together or just want to say hi, feel free to connect with me on <a href="https://www.linkedin.com/in/aj-ciszewski/">Linked in </a>.
 </p>
-
-<h3>Current activities</h3>
-<ul>
-<li>Full Stack Developer & Project Manager at <a href="https://github.com/PowerXTeam">PowerX</a></li>
-<li>Senior Member & Frontend Developer at <a href="https://www.facebook.com/skninformatyki"> SGH Student's Association for Computer Science (SKNI)</a></li>
-</ul>
-
-<h3>Current Projects</h3>
-<ul> 
-    <li><a href="https://github.com/PowerXTeam/main_repo">Social blockchain-based network for people who leading healthy lifestyle (TS,React,Redux,Node.js,MongoDB,Mintr) </a>
-    <li><a href="https://github.com/hator/skni-project?fbclid=IwAR2yY65_CebI8tEDRQ8-2G8dhc9AiBFKPTPDq1vF5AODqfDVU7vA7sQ8uyE">Stock screener (TS,React,Django,SQLlite)<a></li>
-    <li><a href="https://github.com/andreyoch/react-1">Social Network(React,Redux,Axios)</a></li>
-</ul>
-
-<h3>Completed Projects</h3>
-<ul>
-<li><a href="https://github.com/andreyoch/todo_list">Todo List</a></li>
-<li><a href="https://github.com/andreyoch/etch_a_sketch">Etch a sketch</a></li>
-<li><a href="https://github.com/andreyoch/tic-tac-toe">Tic Tac Toe</a></li>
-<li><a href="https://github.com/andreyoch/library_app">Library App</a></li>
-
-</ul>
-
-
