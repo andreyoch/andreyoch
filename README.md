@@ -15,16 +15,16 @@ Certificates
 </h3>
 <div align="center">
 <a href="https://www.credly.com/badges/c345efbb-3b11-46e2-b80a-14d8140e9f79/linked_in_profile">
-<img height="300px" width="300px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="solution architect associate badge"></a>
+<img height="200px" width="200px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="solution architect associate badge"></a>
 
 <a href="https://www.credly.com/badges/0526a882-a2b4-4636-a8fd-6b05c046df6b?source=linked_in_profile">
-<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="developer associate badge"></a>
+<img height="200px" width="200px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="developer associate badge"></a>
 
 <a href="https://www.credly.com/badges/6b5437da-6464-47ec-a07f-b32212252411/linked_in_profile">
-<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="cloud practitioner badge"></a>
+<img height="200px" width="200px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="cloud practitioner badge"></a>
 
 <a href="https://www.credly.com/badges/b4c70703-4e85-4674-9977-5a3c2c3312a8/linked_in_profile">
-<img height="300px" width="300px" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="terraform associate badge"></a>
+<img height="200px" width="200px" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="terraform associate badge"></a>
 
 </div>
 
